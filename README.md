@@ -89,6 +89,7 @@ Accuracy and relevance of results depend on data quality and timeliness.
 
 ### Conclusion
 The development of a Decision Support System for selecting small satellite launch vehicle providers is crucial for enhancing the efficiency and effectiveness of satellite missions. The outlined project proposal emphasizes the objectives, methodology, and user-friendly features of the DSS, empowering users to make informed decisions while considering various criteria and constraints, ultimately leading to successful satellite missions and cost optimization.
-Contributors
+
+####Contributors
 This project was made possible by the contributions of the following individuals:
 Evangelia Gkaravela & Vivek Mansukhbhai Padsala
